@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PWArobo/precache-manifest.f146f624a63933f0f5ca3cd9fa064764.js"
+  "/PWArobo/precache-manifest.18a98bea0a22f71bdc4590f25dbcea42.js"
 );
 
 self.addEventListener('message', (event) => {
